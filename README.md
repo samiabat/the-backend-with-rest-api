@@ -1,7 +1,7 @@
 ## The-backend-with django and rest-api
 
 #### Please use the following instraction for full functionality
-(ssss-removebg-preview.png)
+![Hello I am sami](ssss-removebg-preview.png)
 1, create virtual environment this is optiona (optional) </br>
 2, clone the code  git clone https://github.com/samiabat/the-backend-with-rest-api </br>
 3, pip install -r requirements.py   this is (required) </br>
